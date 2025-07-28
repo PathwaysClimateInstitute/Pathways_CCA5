@@ -1,0 +1,12 @@
+name: cca5-gwfigs
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - rasterio
+  - geopandas
+  - numpy
+  - matplotlib
+  - pyproj
+  - fiona
+  - shapely
